@@ -46,8 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/fancyBear404/fancyBear404/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <picture>
