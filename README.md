@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/+V4XexEguFPlhYmFk" target="_blank">
+  <a href="https://t.me/+4Gtbq_k53tM4NDE0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
