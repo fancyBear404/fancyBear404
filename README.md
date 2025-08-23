@@ -6,7 +6,8 @@
 
 ###
 
-<h3 align="left">[!!] important to save or follow our github link to not lose contact with fancyBear <br>[+]  if telegram delete our  community you will fined update links her<br><br>link for our github save it :<br>https://github.com/fancyBear404</h3>
+<h3 align="left">[!!] important to save or follow our github link to not lose contact with fancyBear <br>[+]  if telegram delete our community you will fined update links her
+  <br><br>link for our github save it :<br>https://github.com/fancyBear404</h3>
 
 ###
 
